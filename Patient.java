@@ -5,8 +5,6 @@
  * waiting for a heart transplant surgery or that hava already undergone
  * surgery.
  * 
- * @author Ana Paula Centeno
- * @author Haolin (Daniel) Jin
  */
 
 public class  Patient {
